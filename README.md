@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @setin1219
+- 👋 Hi, I’m Nitesh, a Software Developer.
 - 👀 I’m interested in working on projects which solves problem
 - 🌱 I’m currently learning Blazor Webassembly
 - 💞️ I’m looking to collaborate on DotNet related projects
